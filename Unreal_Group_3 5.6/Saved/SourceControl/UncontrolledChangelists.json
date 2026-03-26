@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/UGD_Character.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_Anim_BP.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_AIC.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_BT.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/Target_BP.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_BB.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/Q6/AQELWFEGZGLRSSTU2JL63W.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/1F/88MHBX0W2SPN432Z5G7HK6.uasset",
+				"C:/Users/brian/Desktop/Trimester B 2025/Unreal Engine Development/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BPI_Interactable.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_Interactable_Base.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_Interactable_test.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/H8/HF7IGLLDODIDAU18SG0DXX.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_Interactable_BlockPickup.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/6A/ECGG4X7Z0SUJ81QP4FAUJL.uasset",
+				"C:/Users/PDOLAN300/Documents/GitHub/UGD_Group_3/Unreal_Group_3/Content/UGD_Game/Blueprints/BP_Placed_Block.uasset"
+			]
+		}
+	]
+}
