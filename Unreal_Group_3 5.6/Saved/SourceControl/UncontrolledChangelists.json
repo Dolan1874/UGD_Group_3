@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset",
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_BT.uasset",
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Interfaces/NPCCommands_WBP.uasset",
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_Interactable_BlockPickup.uasset",
+				"C:/Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPCCommand_E.uasset",
 				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownController.uasset",
