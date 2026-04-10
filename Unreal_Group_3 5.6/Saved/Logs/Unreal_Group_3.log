@@ -7281,3 +7281,125 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.10-11.17.04:820][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.10-11.17.04:820][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.10-11.17.04:820][982]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownController Validating asset
+[2026.04.10-11.20.30:075][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-11.20.30:105][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2026.04.10-11.20.30:105][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownController]
+[2026.04.10-11.20.30:124][341]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_TopDownController
+[2026.04.10-11.20.30:125][341]LogSavePackage: Moving '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownControllerB0B0B4064AF1FC9AB93278B391E6F36E.tmp' to '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownController.uasset'
+[2026.04.10-11.20.30:136][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.913 ms (total: 2.52 sec)
+[2026.04.10-11.20.30:189][341]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.10-11.20.30:189][341]LogContentValidation: Enabled validators:
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-11.20.30:189][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-11.20.30:189][341]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownController Validating asset
+[2026.04.10-11.20.54:179][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.10-11.21.00:635][187]LogSlate: Window 'Save Content' being destroyed
+[2026.04.10-11.21.00:644][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-11.21.00:689][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Blueprints/NPC_Stuff/NPC_BT] ([1] browsable assets)...
+[2026.04.10-11.21.00:689][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/NPC_Stuff/NPC_BT]
+[2026.04.10-11.21.00:692][187]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/NPC_Stuff/NPC_BT
+[2026.04.10-11.21.00:693][187]LogSavePackage: Moving '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/NPC_BTC4BFFF484EC1B16299498887B0C35B05.tmp' to '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/NPC_BT.uasset'
+[2026.04.10-11.21.00:696][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F
+[2026.04.10-11.21.00:696][187]LogSavePackage: Moving '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/DXNNWSN0CWWI75VN9CKW0F4689858A43752E671A251ABA3619F6B4.tmp' to '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F.uasset'
+[2026.04.10-11.21.00:705][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.678 ms (total: 2.59 sec)
+[2026.04.10-11.21.00:759][187]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.10-11.21.00:759][187]LogContentValidation: Enabled validators:
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-11.21.00:759][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-11.21.00:759][187]AssetCheck: /Game/UGD_Game/Blueprints/NPC_Stuff/NPC_BT Validating asset
+[2026.04.10-11.21.00:759][187]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2026.04.10-11.21.00:784][188]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.10-11.21.04:091][581]LogDerivedDataCache: C:/Users/BMCLEA302/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.10-11.23.04:472][365]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/UGD_Game/Blueprints/BP_TopDownController.
+[2026.04.10-11.25.04:366][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.10-11.25.05:728][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.10-11.25.05:733][843]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.10-11.25.05:733][843]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.10-11.25.05:734][843]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 577 us (total: 21.186 ms)
+[2026.04.10-11.25.05:738][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.10-11.25.05:738][843]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.10-11.25.05:742][843]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.10-11.25.05:743][843]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 855 us (total: 28.489 ms)
+[2026.04.10-11.25.05:743][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005410s)
+[2026.04.10-11.25.05:743][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.005438s)
+[2026.04.10-11.25.05:760][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.10-11.25.05:763][843]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.10-11.25.05:764][843]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.10-11.25.05:764][843]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.10-11.25.05:764][843]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.10-11.25.05:764][843]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.10-11.25.05:765][843]LogWorldPartition: Display: WorldPartition initialize took 1.174 ms (total: 139.157 ms)
+[2026.04.10-11.25.05:765][843]LogPlayLevel: PIE: World Init took: (0.002630s)
+[2026.04.10-11.25.05:766][843]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.10-11.25.05:766][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.10-11.25.05:766][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.10-11.25.05:766][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.10-11.25.05:766][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.10-11.25.05:766][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.10-11.25.05:768][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.10-11.25.05:795][843]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.10-11.25.05:795][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.10-11.25.05:795][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.10-11.25.05:795][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.10-11.25.05:796][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.04.10-11.25.05:796][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.04.10-11.25.05:798][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.04.10-11.25.05:798][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.04.10-11.25.05:798][843]LogInit: FAudioDevice initialized with ID 34.
+[2026.04.10-11.25.05:798][843]LogAudio: Display: Audio Device (ID: 34) registered with world 'Lvl_TopDown'.
+[2026.04.10-11.25.05:798][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.10-11.25.05:802][843]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.10-11.25.05:804][843]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.10-12.25.05
+[2026.04.10-11.25.05:805][843]LogWorld: Bringing up level for play took: 0.002874
+[2026.04.10-11.25.05:807][843]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.04.10-11.25.05:811][843]PIE: Server logged in
+[2026.04.10-11.25.05:813][843]PIE: Play in editor total start time 0.08 seconds.
+[2026.04.10-11.25.05:856][844]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.10-11.25.08:371][142]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.10-11.25.08:371][142]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.10-11.25.10:004][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.10-11.25.10:004][329]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.10-11.25.10:004][329]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.10-11.25.10:005][329]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.10-11.25.10:005][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.10-11.25.10:005][329]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.10-11.25.10:011][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.10-11.25.10:013][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.10-11.25.10:030][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.10-11.25.10:030][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.10-11.25.10:030][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.04.10-11.25.10:032][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.04.10-11.25.10:036][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.10-11.25.10:038][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.10-11.25.10:067][330]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.04.10-11.25.15:234][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.10-11.25.15:290][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2026.04.10-11.25.15:290][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownController]
+[2026.04.10-11.25.15:309][927]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_TopDownController
+[2026.04.10-11.25.15:310][927]LogSavePackage: Moving '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownControllerD4E6E6A640CB7A58E209D2915F83F6A8.tmp' to '../../../../../../Users/BMCLEA302/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownController.uasset'
+[2026.04.10-11.25.15:316][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.343 ms (total: 2.67 sec)
+[2026.04.10-11.25.15:357][927]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.10-11.25.15:357][927]LogContentValidation: Enabled validators:
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.10-11.25.15:357][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.10-11.25.15:357][927]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownController Validating asset
