@@ -3873,3 +3873,854 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.18-13.26.26:991][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.18-13.26.26:994][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2026.04.18-13.26.27:055][914]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.18-13.29.00:195][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.18-13.29.00:654][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-13.29.00:679][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character] ([2] browsable assets)...
+[2026.04.18-13.29.00:679][ 69]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.18-13.29.00:772][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.UGD_Character]
+[2026.04.18-13.29.00:772][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character]
+[2026.04.18-13.29.00:787][ 69]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character
+[2026.04.18-13.29.00:787][ 69]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/UGD_CharacterCCD45CA94A8FC638C6FF89A9E15B43C1.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset'
+[2026.04.18-13.29.00:796][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.953 ms (total: 1.32 sec)
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: Enabled validators:
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-13.29.00:819][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-13.29.00:819][ 69]AssetCheck: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character Validating asset
+[2026.04.18-13.29.38:919][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.04.18-13.29.38:932][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto2
+[2026.04.18-13.29.38:933][232]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/DXNNWSN0CWWI75VN9CKW0F_Auto23A06DC4945981C6720D3A09761B0637E.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto2.uasset'
+[2026.04.18-13.29.38:934][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.037
+[2026.04.18-13.29.38:934][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2026.04.18-13.40.04:666][108]LogSlate: Took 0.010483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.18-13.40.04:666][108]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.40.04:666][108]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Characters/Mannequins/Meshes/SKM_Manny (0x566804FB3B2CBDE6) - The package to load does not exist on disk or in the loader
+[2026.04.18-13.40.04:667][108]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny'
+[2026.04.18-13.40.04:784][112]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.40.04:788][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.18-13.40.08:276][294]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.18-13.40.08:318][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.18-13.40.25:197][ 52]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.40.25:248][ 52]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/Picking Up.fbx]
+[2026.04.18-13.40.25:434][ 52]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.40.25:463][ 52]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.40.40:181][ 52]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.18-13.40.43:192][ 52]LogSlate: Window 'Import Content' being destroyed
+[2026.04.18-13.40.43:220][ 52]LogInterchangeEngine: [Pending] Importing
+[2026.04.18-13.40.43:689][ 55]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.40.43:753][ 56]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Picking_Up.Picking_Up (Required Memory Estimate: 0.31 MB)
+[2026.04.18-13.40.44:025][ 56]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Unarmed/Picking_Up.Picking_Up, at AnimationSequence/c3f694964358d258a6c21ba47e39919138ea1c96
+[2026.04.18-13.40.44:085][ 57]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downloads/Picking Up.fbx]
+[2026.04.18-13.40.44:112][ 57]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.18-13.40.44:113][ 57]LogInterchangeEngine: [Success] Import Done
+[2026.04.18-13.40.46:749][170]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Picking_Up.Picking_Up
+[2026.04.18-13.40.46:749][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.18-13.40.46:768][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.18-13.40.47:189][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.18-13.40.47:963][170]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.04.18-13.40.47:974][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.18-13.40.48:373][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.18-13.40.48:374][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.072
+[2026.04.18-13.40.48:374][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/Picking_Up] ([1] browsable assets)...
+[2026.04.18-13.40.48:389][171]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/Unarmed/Picking_Up.Picking_Up]
+[2026.04.18-13.40.48:389][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/Picking_Up]
+[2026.04.18-13.40.48:400][171]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/Unarmed/Picking_Up_Auto3
+[2026.04.18-13.40.48:400][171]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Picking_Up_Auto32BFA3D3B40426F0640C6DEB1A8BBF8E7.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/Unarmed/Picking_Up_Auto3.uasset'
+[2026.04.18-13.40.48:401][171]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.04.18-13.40.48:716][178]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.40.58:714][498]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.18-13.42.41:182][437]LogSlate: Window 'Picking_Up' being destroyed
+[2026.04.18-13.42.41:205][437]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.42.41:205][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.42.41:218][437]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.42.41:218][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.42.41:273][437]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.42.41:273][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.42.41:309][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.04.18-13.42.48:097][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.18-13.42.48:188][998]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.18-13.42.48:314][998]LogSlate: Took 0.126641 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.18-13.42.52:751][998]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.18-13.42.52:778][998]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Anims/Unarmed/Picking_Up.Picking_Up
+	Asset Type: AnimSequence
+[2026.04.18-13.42.53:207][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.18-13.42.53:230][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.18-13.42.53:252][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.18-13.45.44:879][315]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.45.44:908][315]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5.FBX]
+[2026.04.18-13.45.45:065][315]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.45.45:085][315]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.45.57:250][315]LogSlate: Window 'Import Content' being destroyed
+[2026.04.18-13.45.57:266][315]LogInterchangeEngine: [Pending] Importing
+[2026.04.18-13.45.57:838][318]LogStreaming: Display: FlushAsyncLoading(670): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.45.57:984][320]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5.Anim_Body_Stretch_1_UE5 (Required Memory Estimate: 9.05 MB)
+[2026.04.18-13.45.58:120][320]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5.Anim_Body_Stretch_1_UE5, at AnimationSequence/6a1ac57b53ab0cef4ea747198cc73cb099bae526
+[2026.04.18-13.45.58:194][321]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5.FBX]
+[2026.04.18-13.45.58:194][321]LogInterchangeEngine: [Pending] Importing -  (68)
+[2026.04.18-13.45.58:194][321]LogInterchangeEngine: [Pending] Importing -  (68)
+[2026.04.18-13.45.58:194][321]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5.FBX]
+[2026.04.18-13.45.58:736][338]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.45.58:883][340]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5.Anim_Body_Stretch_2_UE5 (Required Memory Estimate: 7.63 MB)
+[2026.04.18-13.45.58:986][340]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5.Anim_Body_Stretch_2_UE5, at AnimationSequence/a9dc02f898a80f8b437442e51b543216e61a2632
+[2026.04.18-13.45.59:058][341]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5.FBX]
+[2026.04.18-13.45.59:058][341]LogInterchangeEngine: [Pending] Importing -  (67)
+[2026.04.18-13.45.59:058][341]LogInterchangeEngine: [Pending] Importing -  (67)
+[2026.04.18-13.45.59:058][341]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5.FBX]
+[2026.04.18-13.46.00:004][363]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.00:589][365]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5.Anim_Body_Stretch_3_UE5 (Required Memory Estimate: 19.73 MB)
+[2026.04.18-13.46.00:846][365]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5.Anim_Body_Stretch_3_UE5, at AnimationSequence/b62adc50f94279646439b7bcbbe33c4a73840112
+[2026.04.18-13.46.00:923][366]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5.FBX]
+[2026.04.18-13.46.00:923][366]LogInterchangeEngine: [Pending] Importing -  (66)
+[2026.04.18-13.46.00:923][366]LogInterchangeEngine: [Pending] Importing -  (66)
+[2026.04.18-13.46.00:923][366]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5.FBX]
+[2026.04.18-13.46.01:396][383]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.01:533][385]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5.Anim_Body_Stretch_4_UE5 (Required Memory Estimate: 5.94 MB)
+[2026.04.18-13.46.01:609][385]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5.Anim_Body_Stretch_4_UE5, at AnimationSequence/aab5442f97f53d22783e1648bdef11bb04994b6f
+[2026.04.18-13.46.01:677][386]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5.FBX]
+[2026.04.18-13.46.01:677][386]LogInterchangeEngine: [Pending] Importing -  (65)
+[2026.04.18-13.46.01:677][386]LogInterchangeEngine: [Pending] Importing -  (65)
+[2026.04.18-13.46.01:677][386]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Bow_2_UE5.FBX]
+[2026.04.18-13.46.01:839][400]LogInterchangeEngine: [Pending] Importing -  (64)
+[2026.04.18-13.46.01:839][400]LogInterchangeEngine: [Pending] Importing -  (64)
+[2026.04.18-13.46.01:839][400]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Bow_UE5.FBX]
+[2026.04.18-13.46.02:256][417]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.02:390][419]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5.Anim_Bow_UE5 (Required Memory Estimate: 4.62 MB)
+[2026.04.18-13.46.02:446][419]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5.Anim_Bow_UE5, at AnimationSequence/8ad3a8cd2253cc855af157d1df679dd1b7b6791c
+[2026.04.18-13.46.02:515][420]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Bow_UE5.FBX]
+[2026.04.18-13.46.02:515][420]LogInterchangeEngine: [Pending] Importing -  (63)
+[2026.04.18-13.46.02:515][420]LogInterchangeEngine: [Pending] Importing -  (63)
+[2026.04.18-13.46.02:515][420]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5.FBX]
+[2026.04.18-13.46.03:090][437]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.03:228][439]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5.Anim_Brush_Of_Dust_UE5 (Required Memory Estimate: 8.25 MB)
+[2026.04.18-13.46.03:327][439]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5.Anim_Brush_Of_Dust_UE5, at AnimationSequence/a87685c72856b5aad0ed5b75a0ac77c97a6ea24c
+[2026.04.18-13.46.03:397][440]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5.FBX]
+[2026.04.18-13.46.03:397][440]LogInterchangeEngine: [Pending] Importing -  (62)
+[2026.04.18-13.46.03:397][440]LogInterchangeEngine: [Pending] Importing -  (62)
+[2026.04.18-13.46.03:397][440]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5.FBX]
+[2026.04.18-13.46.03:857][457]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.03:989][459]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5.Anim_Call_Guards_1_UE5 (Required Memory Estimate: 5.58 MB)
+[2026.04.18-13.46.04:062][459]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5.Anim_Call_Guards_1_UE5, at AnimationSequence/1bdd191cc03625ed2c81df1692f78767e3c4cf4e
+[2026.04.18-13.46.04:127][460]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5.FBX]
+[2026.04.18-13.46.04:127][460]LogInterchangeEngine: [Pending] Importing -  (61)
+[2026.04.18-13.46.04:127][460]LogInterchangeEngine: [Pending] Importing -  (61)
+[2026.04.18-13.46.04:127][460]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5.FBX]
+[2026.04.18-13.46.04:583][477]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.04:721][479]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5.Anim_Call_Someone_1_UE5 (Required Memory Estimate: 4.93 MB)
+[2026.04.18-13.46.04:782][479]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5.Anim_Call_Someone_1_UE5, at AnimationSequence/4f9e5fc221489358552e41a8aeecd73a8696601f
+[2026.04.18-13.46.04:848][480]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5.FBX]
+[2026.04.18-13.46.04:849][480]LogInterchangeEngine: [Pending] Importing -  (60)
+[2026.04.18-13.46.04:849][480]LogInterchangeEngine: [Pending] Importing -  (60)
+[2026.04.18-13.46.04:849][480]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5.FBX]
+[2026.04.18-13.46.05:386][497]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.05:526][499]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5.Anim_Call_Someone_2_UE5 (Required Memory Estimate: 8.86 MB)
+[2026.04.18-13.46.05:638][499]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5.Anim_Call_Someone_2_UE5, at AnimationSequence/a7e0e7716e05a330e66aa0d414cbab31651ddfbf
+[2026.04.18-13.46.05:705][500]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5.FBX]
+[2026.04.18-13.46.05:705][500]LogInterchangeEngine: [Pending] Importing -  (59)
+[2026.04.18-13.46.05:705][500]LogInterchangeEngine: [Pending] Importing -  (59)
+[2026.04.18-13.46.05:705][500]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5.FBX]
+[2026.04.18-13.46.06:499][520]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.07:088][522]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5.Anim_Check_Equipment_1_UE5 (Required Memory Estimate: 16.23 MB)
+[2026.04.18-13.46.07:292][522]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5.Anim_Check_Equipment_1_UE5, at AnimationSequence/f0fcaa1095438d63d961146144b5b665577d8ef0
+[2026.04.18-13.46.07:364][523]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5.FBX]
+[2026.04.18-13.46.07:364][523]LogInterchangeEngine: [Pending] Importing -  (58)
+[2026.04.18-13.46.07:364][523]LogInterchangeEngine: [Pending] Importing -  (58)
+[2026.04.18-13.46.07:364][523]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5.FBX]
+[2026.04.18-13.46.07:912][541]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.08:051][543]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5.Anim_Check_Equipment_2_UE5 (Required Memory Estimate: 8.00 MB)
+[2026.04.18-13.46.08:150][543]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5.Anim_Check_Equipment_2_UE5, at AnimationSequence/a7db110f0a283722c6c3924ab02a196016daf838
+[2026.04.18-13.46.08:218][544]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5.FBX]
+[2026.04.18-13.46.08:218][544]LogInterchangeEngine: [Pending] Importing -  (57)
+[2026.04.18-13.46.08:218][544]LogInterchangeEngine: [Pending] Importing -  (57)
+[2026.04.18-13.46.08:218][544]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5.FBX]
+[2026.04.18-13.46.08:635][561]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.08:768][563]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5.Anim_Check_Equipment_3_UE5 (Required Memory Estimate: 4.87 MB)
+[2026.04.18-13.46.08:827][563]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5.Anim_Check_Equipment_3_UE5, at AnimationSequence/916a18bee7ae02bba2bd970fbfb2eadf361aab71
+[2026.04.18-13.46.08:896][564]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5.FBX]
+[2026.04.18-13.46.08:896][564]LogInterchangeEngine: [Pending] Importing -  (56)
+[2026.04.18-13.46.08:897][564]LogInterchangeEngine: [Pending] Importing -  (56)
+[2026.04.18-13.46.08:897][564]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Clap_1_UE5.FBX]
+[2026.04.18-13.46.09:059][578]LogInterchangeEngine: [Pending] Importing -  (55)
+[2026.04.18-13.46.09:059][578]LogInterchangeEngine: [Pending] Importing -  (55)
+[2026.04.18-13.46.09:059][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Clap_2_UE5.FBX]
+[2026.04.18-13.46.09:244][594]LogInterchangeEngine: [Pending] Importing -  (54)
+[2026.04.18-13.46.09:244][594]LogInterchangeEngine: [Pending] Importing -  (54)
+[2026.04.18-13.46.09:244][594]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5.FBX]
+[2026.04.18-13.46.09:616][609]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.09:746][611]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5.Anim_Crowd_Cheer_1_UE5 (Required Memory Estimate: 3.46 MB)
+[2026.04.18-13.46.09:787][611]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5.Anim_Crowd_Cheer_1_UE5, at AnimationSequence/ed40e98c3d9b52df0c9b206feae61985a268592a
+[2026.04.18-13.46.09:854][612]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5.FBX]
+[2026.04.18-13.46.09:854][612]LogInterchangeEngine: [Pending] Importing -  (53)
+[2026.04.18-13.46.09:854][612]LogInterchangeEngine: [Pending] Importing -  (53)
+[2026.04.18-13.46.09:854][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5.FBX]
+[2026.04.18-13.46.10:463][631]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.11:050][633]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5.Anim_Deep_Breath_Sad_UE5 (Required Memory Estimate: 9.97 MB)
+[2026.04.18-13.46.11:179][633]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5.Anim_Deep_Breath_Sad_UE5, at AnimationSequence/269d227d1eee0b7a0dd150722d079282616bd541
+[2026.04.18-13.46.11:249][634]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5.FBX]
+[2026.04.18-13.46.11:249][634]LogInterchangeEngine: [Pending] Importing -  (52)
+[2026.04.18-13.46.11:249][634]LogInterchangeEngine: [Pending] Importing -  (52)
+[2026.04.18-13.46.11:249][634]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Don_t_Know_2_UE5.FBX]
+[2026.04.18-13.46.11:779][651]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.46.11:780][651]LogInterchangeEngine: [Pending] Importing -  (52)
+[2026.04.18-13.46.11:780][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Don_t_Know_UE5.FBX]
+[2026.04.18-13.46.11:780][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Drunk_Talk_1_UE5.FBX]
+[2026.04.18-13.46.11:780][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Exercise_1_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Exercise_2_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Exercise_3_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Fart_1_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Fixing_Something_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Get_Here_1_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Get_Here_2_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Got_a_Deal_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Go_Away_UE5.FBX]
+[2026.04.18-13.46.11:781][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Head_Scratch_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Hold_Baby_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_2_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_3_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_4_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_5_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Idle_6_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Itching_Body_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Laugh_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Legs_Relax_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Lets_Go_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Look_Around_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_No_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Playing_Guitar_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Salute_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Shout_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Showing_Goods_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Showing_Goods_2_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Show_Bicep_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Sit_Bench_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Smith_Working_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Sneeze_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Stinky_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Take_Drink_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Take_From_Floor_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Take_From_Table_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Talking_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Talking_2_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Talking_3_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Thinking_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Throw_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Throw_2_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Triumph_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Washing_Window_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Watching_Somewhere_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Wave_1_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Wave_2_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Wave_3_UE5.FBX]
+[2026.04.18-13.46.11:781][652]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim__Smith_Working_UE5.FBX]
+[2026.04.18-13.46.11:827][652]LogInterchangeEngine: Display: Interchange import cancelled [C:/Users/brian/Downl...c Anims/Game/Gen_UE5/Anim_Don_t_Know_2_UE5.FBX]
+[2026.04.18-13.46.11:827][652]LogInterchangeEngine: [Pending] Importing -  (51)
+[2026.04.18-13.46.11:846][654]LogInterchangeEngine: [Pending] Importing -  (50)
+[2026.04.18-13.46.11:846][654]LogInterchangeEngine: [Pending] Importing -  (49)
+[2026.04.18-13.46.11:846][654]LogInterchangeEngine: [Pending] Importing -  (48)
+[2026.04.18-13.46.11:846][654]LogInterchangeEngine: [Pending] Importing -  (47)
+[2026.04.18-13.46.11:846][654]LogInterchangeEngine: [Pending] Importing -  (46)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (45)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (44)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (43)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (42)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (41)
+[2026.04.18-13.46.11:847][654]LogInterchangeEngine: [Pending] Importing -  (40)
+[2026.04.18-13.46.11:848][654]LogInterchangeEngine: [Pending] Importing -  (39)
+[2026.04.18-13.46.11:848][654]LogInterchangeEngine: [Pending] Importing -  (38)
+[2026.04.18-13.46.11:848][654]LogInterchangeEngine: [Pending] Importing -  (37)
+[2026.04.18-13.46.11:848][654]LogInterchangeEngine: [Pending] Importing -  (36)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (35)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (34)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (33)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (32)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (31)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (30)
+[2026.04.18-13.46.11:849][654]LogInterchangeEngine: [Pending] Importing -  (29)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (28)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (27)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (26)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (25)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (24)
+[2026.04.18-13.46.11:850][654]LogInterchangeEngine: [Pending] Importing -  (23)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (22)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (21)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (20)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (19)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (18)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (17)
+[2026.04.18-13.46.11:851][654]LogInterchangeEngine: [Pending] Importing -  (16)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (15)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (14)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (13)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (12)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (11)
+[2026.04.18-13.46.11:852][654]LogInterchangeEngine: [Pending] Importing -  (10)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (9)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (8)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (7)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.04.18-13.46.11:853][654]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.04.18-13.46.11:854][654]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.04.18-13.46.11:857][654]Interchange: Error: [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Bow_2_UE5.FBX : '', AnimSequence] Animation length 2.875 is not compatible with import frame-rate 30 fps (sub frame 0.25). The animation has to be frame-border aligned if the 'Snap to Closest Frame Boundary' pipeline option is disabled.
+[2026.04.18-13.46.11:857][654]Interchange: Error: [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Clap_1_UE5.FBX : '', AnimSequence] Animation length 2.458 is not compatible with import frame-rate 30 fps (sub frame 0.75). The animation has to be frame-border aligned if the 'Snap to Closest Frame Boundary' pipeline option is disabled.
+[2026.04.18-13.46.11:857][654]Interchange: Error: [C:/Users/brian/Downloads/UE5 Generic Anims/UE5 Generic Anims/Game/Gen_UE5/Anim_Clap_2_UE5.FBX : '', AnimSequence] Animation length 5.583 is not compatible with import frame-rate 30 fps (sub frame 0.5). The animation has to be frame-border aligned if the 'Snap to Closest Frame Boundary' pipeline option is disabled.
+[2026.04.18-13.46.12:063][654]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2026.04.18-13.46.12:063][654]LogInterchangeEngine: [Success] Import Canceled
+[2026.04.18-13.46.22:657][477]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.18-13.46.22:662][477]LogSlate: Window 'Content Browser' being destroyed
+[2026.04.18-13.47.07:605][826]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.47.07:627][826]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/Picking Up.fbx]
+[2026.04.18-13.47.07:690][826]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.47.07:702][826]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.47.14:979][826]LogSlate: Window 'Import Content' being destroyed
+[2026.04.18-13.47.14:999][826]LogInterchangeEngine: [Pending] Importing
+[2026.04.18-13.47.15:290][829]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.47.15:354][830]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downloads/Picking Up.fbx]
+[2026.04.18-13.47.15:369][830]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.18-13.47.15:369][830]LogInterchangeEngine: [Success] Import Done
+[2026.04.18-13.47.20:598][236]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/Picking_Up.Picking_Up
+[2026.04.18-13.47.20:599][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.18-13.47.20:607][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.18-13.47.20:884][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.04.18-13.47.21:326][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.18-13.47.34:187][886]LogSlate: Window 'Picking_Up' being destroyed
+[2026.04.18-13.47.34:209][886]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.47.34:209][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.47.34:218][886]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.47.34:218][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.47.34:254][886]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.47.34:254][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.47.34:337][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2026.04.18-13.47.45:960][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.18-13.47.47:005][613]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.18-13.47.47:025][613]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Anims/Picking_Up.Picking_Up
+	Asset Type: AnimSequence
+[2026.04.18-13.47.47:414][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.18-13.47.47:436][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.18-13.47.47:458][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.18-13.47.50:554][899]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.47.50:577][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/brian/Downloads/PickingUpObject.UE.fbx]
+[2026.04.18-13.47.50:674][899]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.47.50:691][899]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.04.18-13.47.54:497][899]LogSlate: Window 'Import Content' being destroyed
+[2026.04.18-13.47.54:513][899]LogInterchangeEngine: [Pending] Importing
+[2026.04.18-13.47.54:804][902]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-13.47.54:846][903]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/PickingUpObject_UE.PickingUpObject_UE (Required Memory Estimate: 4.56 MB)
+[2026.04.18-13.47.54:903][903]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/PickingUpObject_UE.PickingUpObject_UE, at AnimationSequence/b90e1becd6cb9b3f53f89315f9f5c287b59f2e59
+[2026.04.18-13.47.54:967][904]LogInterchangeEngine: Display: Interchange import completed [C:/Users/brian/Downloads/PickingUpObject.UE.fbx]
+[2026.04.18-13.47.54:985][904]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.18-13.47.54:985][904]LogInterchangeEngine: [Success] Import Done
+[2026.04.18-13.47.56:260][  2]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Anims/PickingUpObject_UE.PickingUpObject_UE
+[2026.04.18-13.47.56:260][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.18-13.47.56:269][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.18-13.47.56:540][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.18-13.47.56:961][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.18-13.48.36:896][574]LogContentBrowser: Deferred new asset file creation: PickingUpObject_UE_Montage
+[2026.04.18-13.48.36:910][574]LogContentBrowser: Creating deferred item: PickingUpObject_UE_Montage
+[2026.04.18-13.48.36:923][575]LogContentBrowser: Renaming the item being created (Deferred Item: PickingUpObject_UE_Montage).
+[2026.04.18-13.48.38:420][744]LogContentBrowser: Attempting asset rename: PickingUpObject_UE_Montage -> PickingUpObject_UE_Montage
+[2026.04.18-13.48.38:447][744]LogContentBrowser: End creating deferred item PickingUpObject_UE_Montage
+[2026.04.18-13.48.40:030][883]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage.PickingUpObject_UE_Montage
+[2026.04.18-13.48.40:126][883]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.48.40:126][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.48.40:244][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.18-13.48.46:205][215]LogSlate: Window 'PickingUpObject_UE_Montage' being destroyed
+[2026.04.18-13.48.46:230][215]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.48.46:230][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.48.46:269][215]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.48.46:269][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.48.46:299][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.18-13.48.51:008][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.18-13.48.51:547][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-13.48.51:568][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character] ([2] browsable assets)...
+[2026.04.18-13.48.51:650][800]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.UGD_Character]
+[2026.04.18-13.48.51:650][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character]
+[2026.04.18-13.48.51:663][800]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character
+[2026.04.18-13.48.51:664][800]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/UGD_CharacterEC68840641B8FE8B1AC24B8DFB28E54E.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset'
+[2026.04.18-13.48.51:674][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.194 ms (total: 1.45 sec)
+[2026.04.18-13.48.51:701][800]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-13.48.51:701][800]LogContentValidation: Enabled validators:
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-13.48.51:701][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-13.48.51:701][800]AssetCheck: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character Validating asset
+[2026.04.18-13.48.53:110][945]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-13.48.53:116][945]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-13.48.53:116][945]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.18-13.48.53:116][945]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 758 us (total: 12.612 ms)
+[2026.04.18-13.48.53:117][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-13.48.53:117][945]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.48.53:122][945]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-13.48.53:123][945]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 991 us (total: 20.620 ms)
+[2026.04.18-13.48.53:123][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006553s)
+[2026.04.18-13.48.53:123][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006577s)
+[2026.04.18-13.48.53:144][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.04.18-13.48.53:150][945]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.18-13.48.53:152][945]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-13.48.53:152][945]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-13.48.53:152][945]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-13.48.53:152][945]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-13.48.53:153][945]LogWorldPartition: Display: WorldPartition initialize took 1.631 ms (total: 482.278 ms)
+[2026.04.18-13.48.53:153][945]LogPlayLevel: PIE: World Init took: (0.003530s)
+[2026.04.18-13.48.53:154][945]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-13.48.53:154][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-13.48.53:154][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-13.48.53:154][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-13.48.53:154][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-13.48.53:154][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-13.48.53:157][945]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-13.48.53:177][945]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2026.04.18-13.48.53:178][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-13.48.53:178][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-13.48.53:178][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-13.48.53:179][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.18-13.48.53:179][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2026.04.18-13.48.53:181][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.18-13.48.53:181][945]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.18-13.48.53:181][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.18-13.48.53:182][945]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lvl_TopDown'.
+[2026.04.18-13.48.53:182][945]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.18-13.48.53:186][945]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.18-13.48.53:189][945]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.18-14.48.53
+[2026.04.18-13.48.53:190][945]LogWorld: Bringing up level for play took: 0.004080
+[2026.04.18-13.48.53:193][945]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.04.18-13.48.53:197][945]PIE: Server logged in
+[2026.04.18-13.48.53:200][945]PIE: Play in editor total start time 0.085 seconds.
+[2026.04.18-13.48.53:286][946]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-13.48.56:943][350]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.48.57:777][445]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_Interactable_BlockPickup
+[2026.04.18-13.48.57:992][469]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.48.58:193][492]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.18-13.48.58:193][492]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.18-13.49.08:371][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.49.08:371][659]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.49.08:371][659]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.18-13.49.08:371][659]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.49.08:372][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.49.08:372][659]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.18-13.49.08:379][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.18-13.49.08:384][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.49.08:403][659]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-13.49.08:403][659]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.18-13.49.08:403][659]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.04.18-13.49.08:405][659]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.04.18-13.49.08:409][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.49.08:412][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.18-13.49.08:439][660]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.04.18-13.49.55:653][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.18-13.49.56:425][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-13.49.56:456][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character] ([2] browsable assets)...
+[2026.04.18-13.49.56:537][137]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.UGD_Character]
+[2026.04.18-13.49.56:537][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character]
+[2026.04.18-13.49.56:551][137]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character
+[2026.04.18-13.49.56:551][137]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/UGD_CharacterAE6A089A4A2AAFB0EC8435B2035CF794.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset'
+[2026.04.18-13.49.56:559][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.937 ms (total: 1.58 sec)
+[2026.04.18-13.49.56:583][137]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-13.49.56:583][137]LogContentValidation: Enabled validators:
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-13.49.56:583][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-13.49.56:583][137]AssetCheck: /Game/UGD_Game/Blueprints/NPC_Stuff/UGD_Character Validating asset
+[2026.04.18-13.49.58:537][347]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-13.49.58:543][347]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-13.49.58:543][347]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.18-13.49.58:544][347]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 1.129 ms (total: 13.741 ms)
+[2026.04.18-13.49.58:544][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-13.49.58:544][347]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.49.58:550][347]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-13.49.58:551][347]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 894 us (total: 21.514 ms)
+[2026.04.18-13.49.58:551][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006365s)
+[2026.04.18-13.49.58:551][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006391s)
+[2026.04.18-13.49.58:572][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.18-13.49.58:580][347]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.18-13.49.58:581][347]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-13.49.58:581][347]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-13.49.58:581][347]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-13.49.58:581][347]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-13.49.58:583][347]LogWorldPartition: Display: WorldPartition initialize took 1.563 ms (total: 483.841 ms)
+[2026.04.18-13.49.58:583][347]LogPlayLevel: PIE: World Init took: (0.003212s)
+[2026.04.18-13.49.58:584][347]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-13.49.58:584][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-13.49.58:584][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-13.49.58:584][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-13.49.58:584][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-13.49.58:584][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-13.49.58:586][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-13.49.58:603][347]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2026.04.18-13.49.58:603][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-13.49.58:603][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-13.49.58:603][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-13.49.58:603][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.18-13.49.58:603][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2026.04.18-13.49.58:605][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.18-13.49.58:605][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.18-13.49.58:605][347]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.18-13.49.58:605][347]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lvl_TopDown'.
+[2026.04.18-13.49.58:605][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.18-13.49.58:609][347]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.18-13.49.58:612][347]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.18-14.49.58
+[2026.04.18-13.49.58:612][347]LogWorld: Bringing up level for play took: 0.003162
+[2026.04.18-13.49.58:614][347]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.04.18-13.49.58:619][347]PIE: Server logged in
+[2026.04.18-13.49.58:620][347]PIE: Play in editor total start time 0.078 seconds.
+[2026.04.18-13.49.58:698][348]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-13.50.01:987][707]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_Interactable_BlockPickup
+[2026.04.18-13.50.02:412][755]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.18-13.50.03:406][867]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.18-13.50.07:203][295]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.50.09:097][516]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.50.10:162][639]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.50.16:352][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.50.16:352][359]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.50.16:352][359]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.18-13.50.16:352][359]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.50.16:353][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.50.16:353][359]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.18-13.50.16:354][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.18-13.50.16:359][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.50.16:379][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-13.50.16:379][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.18-13.50.16:379][359]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.04.18-13.50.16:381][359]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.04.18-13.50.16:384][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.50.16:387][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.18-13.50.16:418][360]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.04.18-13.50.20:097][703]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage.PickingUpObject_UE_Montage
+[2026.04.18-13.50.20:098][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.18-13.50.20:143][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.18-13.50.20:419][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.18-13.50.23:262][902]LogSlate: Window 'PickingUpObject_UE_Montage' being destroyed
+[2026.04.18-13.50.43:704][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-13.50.43:731][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage] ([1] browsable assets)...
+[2026.04.18-13.50.43:738][830]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage.PickingUpObject_UE_Montage]
+[2026.04.18-13.50.43:738][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage]
+[2026.04.18-13.50.43:745][830]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage
+[2026.04.18-13.50.43:745][830]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/PickingUpObject_UE_MontageC8F4BE95464494A593284C803B053FA1.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/Characters/Mannequins/Anims/PickingUpObject_UE_Montage.uasset'
+[2026.04.18-13.50.43:779][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.710 ms (total: 1.66 sec)
+[2026.04.18-13.50.43:809][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-13.50.43:809][830]LogContentValidation: Enabled validators:
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-13.50.43:809][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-13.50.43:809][830]AssetCheck: /Game/Characters/Mannequins/Anims/PickingUpObject_UE_Montage Validating asset
+[2026.04.18-13.50.43:827][830]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.18-13.50.46:336][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-13.50.46:342][ 61]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-13.50.46:342][ 61]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.18-13.50.46:343][ 61]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 932 us (total: 14.674 ms)
+[2026.04.18-13.50.46:343][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-13.50.46:343][ 61]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.50.46:349][ 61]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-13.50.46:350][ 61]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.119 ms (total: 22.634 ms)
+[2026.04.18-13.50.46:350][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006883s)
+[2026.04.18-13.50.46:350][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006911s)
+[2026.04.18-13.50.46:390][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.18-13.50.46:393][ 61]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.18-13.50.46:395][ 61]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-13.50.46:395][ 61]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-13.50.46:395][ 61]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-13.50.46:395][ 61]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-13.50.46:396][ 61]LogWorldPartition: Display: WorldPartition initialize took 1.361 ms (total: 485.202 ms)
+[2026.04.18-13.50.46:396][ 61]LogPlayLevel: PIE: World Init took: (0.003017s)
+[2026.04.18-13.50.46:397][ 61]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-13.50.46:397][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-13.50.46:397][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-13.50.46:397][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-13.50.46:397][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-13.50.46:397][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-13.50.46:399][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.04.18-13.50.46:417][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2026.04.18-13.50.46:419][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.04.18-13.50.46:419][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.04.18-13.50.46:419][ 61]LogInit: FAudioDevice initialized with ID 23.
+[2026.04.18-13.50.46:419][ 61]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lvl_TopDown'.
+[2026.04.18-13.50.46:419][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.18-13.50.46:423][ 61]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.18-13.50.46:426][ 61]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.18-14.50.46
+[2026.04.18-13.50.46:426][ 61]LogWorld: Bringing up level for play took: 0.003014
+[2026.04.18-13.50.46:429][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.04.18-13.50.46:433][ 61]PIE: Server logged in
+[2026.04.18-13.50.46:435][ 61]PIE: Play in editor total start time 0.093 seconds.
+[2026.04.18-13.50.46:516][ 62]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-13.50.49:273][359]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_Interactable_BlockPickup
+[2026.04.18-13.50.49:691][406]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.18-13.50.50:682][518]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.18-13.50.54:131][907]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.50.58:469][408]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.50.59:433][518]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.51.03:417][972]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.51.06:839][366]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.51.09:811][709]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.51.14:945][294]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-13.51.15:877][400]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-13.51.25:483][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.51.25:483][479]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-13.51.25:483][479]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.18-13.51.25:483][479]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-13.51.25:484][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.51.25:484][479]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.18-13.51.25:485][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.18-13.51.25:490][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-13.51.25:509][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-13.51.25:509][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.04.18-13.51.25:509][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.04.18-13.51.25:511][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.04.18-13.51.25:515][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-13.51.25:517][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.04.18-13.51.25:553][481]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.04.18-13.52.00:948][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.18-13.52.00:959][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto4
+[2026.04.18-13.52.00:960][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/DXNNWSN0CWWI75VN9CKW0F_Auto4D7A6766B486500E7CE766FBB886F6A33.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto4.uasset'
+[2026.04.18-13.52.00:961][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.036
+[2026.04.18-13.52.00:961][123]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2026.04.18-13.52.00:963][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:031][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5.Anim_Body_Stretch_1_UE5]
+[2026.04.18-13.52.01:031][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5]
+[2026.04.18-13.52.01:049][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5_Auto4
+[2026.04.18-13.52.01:049][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Body_Stretch_1_UE5_Auto44C2DD7084E1C96E288601594D78B0EF3.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_1_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:050][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:057][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5.Anim_Body_Stretch_2_UE5]
+[2026.04.18-13.52.01:057][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5]
+[2026.04.18-13.52.01:074][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5_Auto4
+[2026.04.18-13.52.01:074][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Body_Stretch_2_UE5_Auto459BB27DB427005CA01B28CA0D1160DB7.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_2_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:075][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:082][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5.Anim_Body_Stretch_3_UE5]
+[2026.04.18-13.52.01:082][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5]
+[2026.04.18-13.52.01:101][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5_Auto4
+[2026.04.18-13.52.01:101][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Body_Stretch_3_UE5_Auto4A0C9F55D43A3B9D21296CCA5A4844BAC.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_3_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:104][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:110][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5.Anim_Body_Stretch_4_UE5]
+[2026.04.18-13.52.01:110][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5]
+[2026.04.18-13.52.01:127][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5_Auto4
+[2026.04.18-13.52.01:127][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Body_Stretch_4_UE5_Auto4276C28C548112DE0D162B8ABBA3EA4DA.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Body_Stretch_4_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:129][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:136][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5.Anim_Bow_UE5]
+[2026.04.18-13.52.01:136][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5]
+[2026.04.18-13.52.01:153][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5_Auto4
+[2026.04.18-13.52.01:153][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Bow_UE5_Auto4A75F5EF94F27907C0A50249926A4BD1A.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Bow_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:153][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:160][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5.Anim_Brush_Of_Dust_UE5]
+[2026.04.18-13.52.01:160][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5]
+[2026.04.18-13.52.01:177][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5_Auto4
+[2026.04.18-13.52.01:177][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Brush_Of_Dust_UE5_Auto43E8E9677410356BF9FD644AAABF13316.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Brush_Of_Dust_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:178][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:186][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5.Anim_Call_Guards_1_UE5]
+[2026.04.18-13.52.01:186][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5]
+[2026.04.18-13.52.01:203][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5_Auto4
+[2026.04.18-13.52.01:203][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Call_Guards_1_UE5_Auto4CF0425E34DD5711296734B913453BF40.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Guards_1_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:204][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:210][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5.Anim_Call_Someone_1_UE5]
+[2026.04.18-13.52.01:210][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5]
+[2026.04.18-13.52.01:228][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5_Auto4
+[2026.04.18-13.52.01:228][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Call_Someone_1_UE5_Auto4EE53B15847DF026D02AA378C4201ECF0.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_1_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:229][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:236][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5.Anim_Call_Someone_2_UE5]
+[2026.04.18-13.52.01:236][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5]
+[2026.04.18-13.52.01:253][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5_Auto4
+[2026.04.18-13.52.01:253][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Call_Someone_2_UE5_Auto4D4BD1A4C4A509EB5C2AF34BEA05C303A.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Call_Someone_2_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:254][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:261][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5.Anim_Check_Equipment_1_UE5]
+[2026.04.18-13.52.01:261][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5]
+[2026.04.18-13.52.01:279][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5_Auto4
+[2026.04.18-13.52.01:279][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Check_Equipment_1_UE5_Auto4AC04846A4A4479FA76E00994EF5B2774.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_1_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:280][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:287][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5.Anim_Check_Equipment_2_UE5]
+[2026.04.18-13.52.01:287][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5]
+[2026.04.18-13.52.01:304][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5_Auto4
+[2026.04.18-13.52.01:304][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Check_Equipment_2_UE5_Auto459A710D84BA59FEF3505B8827778AFA5.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_2_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:305][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:312][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5.Anim_Check_Equipment_3_UE5]
+[2026.04.18-13.52.01:312][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5]
+[2026.04.18-13.52.01:328][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5_Auto4
+[2026.04.18-13.52.01:328][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Check_Equipment_3_UE5_Auto4DC92B9D5444F405D10E81282B488DAEC.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Check_Equipment_3_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:330][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:338][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5.Anim_Crowd_Cheer_1_UE5]
+[2026.04.18-13.52.01:338][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5]
+[2026.04.18-13.52.01:354][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5_Auto4
+[2026.04.18-13.52.01:354][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Crowd_Cheer_1_UE5_Auto4F779182641260BD76D0293A289291178.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Crowd_Cheer_1_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:355][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5] ([1] browsable assets)...
+[2026.04.18-13.52.01:362][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5.Anim_Deep_Breath_Sad_UE5]
+[2026.04.18-13.52.01:363][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5]
+[2026.04.18-13.52.01:379][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5_Auto4
+[2026.04.18-13.52.01:379][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Anim_Deep_Breath_Sad_UE5_Auto47FCE2B954D8DF54F299DC59BB7D5113A.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/UE5_Generic_Anims/UE5_Generic_Anims/Game/Gen_UE5/Anim_Deep_Breath_Sad_UE5_Auto4.uasset'
+[2026.04.18-13.52.01:380][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Anims/PickingUpObject_UE] ([1] browsable assets)...
+[2026.04.18-13.52.01:388][123]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Anims/PickingUpObject_UE.PickingUpObject_UE]
+[2026.04.18-13.52.01:388][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/PickingUpObject_UE]
+[2026.04.18-13.52.01:405][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Anims/PickingUpObject_UE_Auto4
+[2026.04.18-13.52.01:405][123]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/PickingUpObject_UE_Auto469BFAB234A42933BDE16D3A1E45C10EB.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/Characters/Mannequins/Anims/PickingUpObject_UE_Auto4.uasset'
+[2026.04.18-13.52.01:406][123]LogFileHelpers: Auto-saving content packages took 0.444
+[2026.04.18-14.01.19:042][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-14.01.19:047][305]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-14.01.19:047][305]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.18-14.01.19:048][305]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 722 us (total: 15.397 ms)
+[2026.04.18-14.01.19:048][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-14.01.19:048][305]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-14.01.19:053][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-14.01.19:054][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.101 ms (total: 23.736 ms)
+[2026.04.18-14.01.19:055][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006514s)
+[2026.04.18-14.01.19:055][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006551s)
+[2026.04.18-14.01.19:078][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.04.18-14.01.19:080][305]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.18-14.01.19:082][305]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-14.01.19:082][305]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-14.01.19:082][305]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-14.01.19:082][305]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-14.01.19:083][305]LogWorldPartition: Display: WorldPartition initialize took 1.284 ms (total: 486.487 ms)
+[2026.04.18-14.01.19:083][305]LogPlayLevel: PIE: World Init took: (0.003031s)
+[2026.04.18-14.01.19:083][305]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-14.01.19:083][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-14.01.19:083][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-14.01.19:083][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-14.01.19:083][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-14.01.19:083][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-14.01.19:087][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-14.01.19:106][305]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2026.04.18-14.01.19:107][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-14.01.19:107][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-14.01.19:107][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-14.01.19:107][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.04.18-14.01.19:107][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2026.04.18-14.01.19:109][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.04.18-14.01.19:109][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.04.18-14.01.19:109][305]LogInit: FAudioDevice initialized with ID 24.
+[2026.04.18-14.01.19:109][305]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_TopDown'.
+[2026.04.18-14.01.19:109][305]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.18-14.01.19:113][305]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.18-14.01.19:117][305]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.18-15.01.19
+[2026.04.18-14.01.19:117][305]LogWorld: Bringing up level for play took: 0.003333
+[2026.04.18-14.01.19:120][305]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.04.18-14.01.19:124][305]PIE: Server logged in
+[2026.04.18-14.01.19:126][305]PIE: Play in editor total start time 0.079 seconds.
+[2026.04.18-14.01.19:205][306]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-14.01.22:562][665]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-14.01.23:112][728]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_Interactable_BlockPickup
+[2026.04.18-14.01.23:175][735]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-14.01.23:894][816]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
+[2026.04.18-14.01.25:637][ 14]LogBlueprintUserMessages: [NPC_AIC_C_0] Lost sight
+[2026.04.18-14.01.25:716][ 23]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.18-14.01.26:713][137]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.18-14.01.30:807][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-14.01.30:807][600]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-14.01.30:807][600]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.18-14.01.30:807][600]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-14.01.30:808][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-14.01.30:808][600]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.18-14.01.30:809][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.18-14.01.30:814][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-14.01.30:833][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-14.01.30:833][600]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.04.18-14.01.30:833][600]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.04.18-14.01.30:836][600]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.04.18-14.01.30:842][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.04.18-14.01.30:872][601]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.04.18-14.12.08:562][813]LogDerivedDataCache: C:/Users/brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.18-14.22.13:386][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-14.22.13:392][569]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-14.22.13:392][569]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.18-14.22.13:392][569]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 774 us (total: 16.171 ms)
+[2026.04.18-14.22.13:393][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-14.22.13:393][569]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.18-14.22.13:399][569]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-14.22.13:400][569]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.129 ms (total: 24.865 ms)
+[2026.04.18-14.22.13:400][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007216s)
+[2026.04.18-14.22.13:400][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.007244s)
+[2026.04.18-14.22.13:422][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.18-14.22.13:426][569]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.18-14.22.13:428][569]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-14.22.13:428][569]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-14.22.13:428][569]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-14.22.13:428][569]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-14.22.13:429][569]LogWorldPartition: Display: WorldPartition initialize took 1.341 ms (total: 487.828 ms)
+[2026.04.18-14.22.13:429][569]LogPlayLevel: PIE: World Init took: (0.003187s)
+[2026.04.18-14.22.13:430][569]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-14.22.13:430][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-14.22.13:430][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-14.22.13:430][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-14.22.13:430][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-14.22.13:430][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-14.22.13:432][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-14.22.13:451][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2026.04.18-14.22.13:451][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-14.22.13:451][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-14.22.13:451][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-14.22.13:452][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.04.18-14.22.13:452][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2026.04.18-14.22.13:453][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.04.18-14.22.13:453][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.04.18-14.22.13:453][569]LogInit: FAudioDevice initialized with ID 25.
+[2026.04.18-14.22.13:453][569]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lvl_TopDown'.
+[2026.04.18-14.22.13:453][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.04.18-14.22.13:457][569]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.18-14.22.13:460][569]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.18-15.22.13
+[2026.04.18-14.22.13:460][569]LogWorld: Bringing up level for play took: 0.002991
+[2026.04.18-14.22.13:463][569]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.04.18-14.22.13:467][569]PIE: Server logged in
+[2026.04.18-14.22.13:469][569]PIE: Play in editor total start time 0.077 seconds.
+[2026.04.18-14.22.13:547][570]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-14.22.16:415][882]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_Interactable_BlockPickup
+[2026.04.18-14.22.16:841][930]LogBlueprintUserMessages: [UGD_Character_C_UAID_A82BDD6009F5B4C902_1428134431] BP_Interactable_BlockPickup
+[2026.04.18-14.22.17:837][ 42]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_047C169B5E2FA9C902_1293103496] Picked up block
+[2026.04.18-14.22.20:966][394]LogBlueprintUserMessages: [NPC_AIC_C_0] I can see BP_TopDownCharacter0
