@@ -1182,3 +1182,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-11.47.15:805][611]LogStaticMesh: Display: Building static mesh SM_ColorCalibrator (Required Memory Estimate: 59.138803 MB)...
 [2026.04.20-11.47.16:042][639]LogStaticMesh: Built static mesh [0.24s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
 [2026.04.20-11.48.22:456][867]LogDerivedDataCache: C:/Users/Patri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-11.52.17:314][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.162964
+[2026.04.20-11.52.18:315][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-11.52.18:315][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.829681, Update Interval: 358.005920
+[2026.04.20-11.58.19:362][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 711.210999
+[2026.04.20-11.58.20:362][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-11.58.20:362][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 711.877502, Update Interval: 327.988525
