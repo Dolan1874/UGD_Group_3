@@ -2231,3 +2231,150 @@ Sampler Limit: 32
 [2026.04.20-14.38.35:485][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2474.421631
 [2026.04.20-14.38.36:485][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.20-14.38.36:485][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2475.090576, Update Interval: 300.294800
+[2026.04.20-14.43.47:448][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.20-14.43.47:453][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.045
+[2026.04.20-14.43.47:453][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Red] ([1] browsable assets)...
+[2026.04.20-14.43.47:453][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Red]
+[2026.04.20-14.43.47:456][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Red_Auto4
+[2026.04.20-14.43.47:456][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Red_Auto494B0F8494BF31F9246F49094A952E064.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Red_Auto4.uasset'
+[2026.04.20-14.43.47:458][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Blue] ([1] browsable assets)...
+[2026.04.20-14.43.47:458][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Blue]
+[2026.04.20-14.43.47:460][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Blue_Auto4
+[2026.04.20-14.43.47:460][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Blue_Auto40C057981429E0A576A1252B295213051.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Blue_Auto4.uasset'
+[2026.04.20-14.43.47:461][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Green] ([1] browsable assets)...
+[2026.04.20-14.43.47:461][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Green]
+[2026.04.20-14.43.47:463][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Green_Auto4
+[2026.04.20-14.43.47:463][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Green_Auto4115B75B04C6E76F7AAF161A31830D5F9.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Green_Auto4.uasset'
+[2026.04.20-14.43.47:465][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Yellow] ([1] browsable assets)...
+[2026.04.20-14.43.47:465][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Yellow]
+[2026.04.20-14.43.47:467][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Yellow_Auto4
+[2026.04.20-14.43.47:467][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Yellow_Auto4B34925344FC732A335F21198CE20D38B.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Yellow_Auto4.uasset'
+[2026.04.20-14.43.47:468][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Purple] ([1] browsable assets)...
+[2026.04.20-14.43.47:468][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Purple]
+[2026.04.20-14.43.47:470][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Purple_Auto4
+[2026.04.20-14.43.47:470][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Purple_Auto486EC06FC4EC9D4AE6B1E37A1F35DB33F.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Purple_Auto4.uasset'
+[2026.04.20-14.43.47:472][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Orange] ([1] browsable assets)...
+[2026.04.20-14.43.47:472][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Orange]
+[2026.04.20-14.43.47:473][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Orange_Auto4
+[2026.04.20-14.43.47:473][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Orange_Auto435D88098475BE5DB13AA20921E15604F.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Orange_Auto4.uasset'
+[2026.04.20-14.43.47:475][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_Black] ([1] browsable assets)...
+[2026.04.20-14.43.47:475][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_Black]
+[2026.04.20-14.43.47:477][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_Black_Auto4
+[2026.04.20-14.43.47:477][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_Black_Auto442E80FF842C73F7D02F82D9FB30A1122.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_Black_Auto4.uasset'
+[2026.04.20-14.43.47:478][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UGD_Game/Materials/Colours/M_White] ([1] browsable assets)...
+[2026.04.20-14.43.47:478][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Materials/Colours/M_White]
+[2026.04.20-14.43.47:480][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Materials/Colours/M_White_Auto4
+[2026.04.20-14.43.47:480][605]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/M_White_Auto4549E5E4141E0D7AB7FB2B1ABC5D3B552.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Materials/Colours/M_White_Auto4.uasset'
+[2026.04.20-14.43.47:481][605]LogFileHelpers: Auto-saving content packages took 0.029
+[2026.04.20-14.44.07:352][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2806.285645
+[2026.04.20-14.44.08:352][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.44.08:352][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2806.952881, Update Interval: 330.916473
+[2026.04.20-14.50.29:431][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3188.367432
+[2026.04.20-14.50.29:600][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-14.50.29:600][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3188.528564, Update Interval: 339.055756
+[2026.04.20-14.53.22:103][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.20-14.53.23:223][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.53.23:293][910]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UGD_Game/Blueprints/BP_Interactable_BlockPickup] ([2] browsable assets)...
+[2026.04.20-14.53.23:418][910]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_Interactable_BlockPickup.BP_Interactable_BlockPickup]
+[2026.04.20-14.53.23:418][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_Interactable_BlockPickup]
+[2026.04.20-14.53.23:455][910]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_Interactable_BlockPickup
+[2026.04.20-14.53.23:456][910]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_Interactable_BlockPickup344E8C304BE22B208BB326BA41911D8A.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_Interactable_BlockPickup.uasset'
+[2026.04.20-14.53.23:475][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.212 ms (total: 1.66 sec)
+[2026.04.20-14.53.23:556][910]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-14.53.23:556][910]LogContentValidation: Enabled validators:
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-14.53.23:556][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-14.53.23:558][910]AssetCheck: /Game/UGD_Game/Blueprints/BP_Interactable_BlockPickup Validating asset
+[2026.04.20-14.53.28:346][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-14.53.28:364][327]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-14.53.28:365][327]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.20-14.53.28:376][327]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 11.776 ms (total: 20.033 ms)
+[2026.04.20-14.53.28:385][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-14.53.28:394][327]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.20-14.53.28:429][327]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-14.53.28:431][327]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.125 ms (total: 5.287 ms)
+[2026.04.20-14.53.28:431][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037473s)
+[2026.04.20-14.53.28:432][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.037764s)
+[2026.04.20-14.53.28:465][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.20-14.53.28:475][327]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.20-14.53.28:515][327]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-14.53.28:515][327]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-14.53.28:516][327]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-14.53.28:516][327]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-14.53.28:522][327]LogWorldPartition: Display: WorldPartition initialize took 6.153 ms (total: 104.099 ms)
+[2026.04.20-14.53.28:523][327]LogPlayLevel: PIE: World Init took: (0.049573s)
+[2026.04.20-14.53.28:540][327]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-14.53.28:541][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-14.53.28:541][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-14.53.28:543][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-14.53.28:543][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-14.53.28:543][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-14.53.28:550][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-14.53.28:605][327]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.04.20-14.53.28:609][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-14.53.28:609][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-14.53.28:610][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-14.53.28:613][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.20-14.53.28:613][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.20-14.53.28:615][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.20-14.53.28:616][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.20-14.53.28:616][327]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.20-14.53.28:616][327]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_TopDown'.
+[2026.04.20-14.53.28:618][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.20-14.53.28:642][327]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.20-14.53.28:685][327]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.20-15.53.28
+[2026.04.20-14.53.28:700][327]LogWorld: Bringing up level for play took: 0.056361
+[2026.04.20-14.53.28:714][327]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.04.20-14.53.28:779][327]PIE: Server logged in
+[2026.04.20-14.53.28:782][327]PIE: Play in editor total start time 0.422 seconds.
+[2026.04.20-14.53.28:801][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Black.M_Black needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:871][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_White.M_White needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:880][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Orange.M_Orange needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:889][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Purple.M_Purple needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:900][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Green.M_Green needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:909][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Blue.M_Blue needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:918][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Yellow.M_Yellow needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.28:926][327]LogMaterial: Display: Material /Game/UGD_Game/Materials/Colours/M_Red.M_Red needed to have new flag set bUsedWithNanite !
+[2026.04.20-14.53.29:014][328]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-14.53.37:631][921]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/Cursor/FX_Cursor_Success.FX_Cursor_Success took 0.175342 sec (time since issued).
+[2026.04.20-14.53.46:317][613]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] not a block
+[2026.04.20-14.53.46:622][646]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] wasnt a block
+[2026.04.20-14.54.01:207][189]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] not a block
+[2026.04.20-14.54.01:533][225]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] not a block
+[2026.04.20-14.54.01:986][274]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] wasnt a block
+[2026.04.20-14.54.02:338][313]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] wasnt a block
+[2026.04.20-14.54.06:833][787]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_UAID_D843AE769B7C74D302_1829550733] Picked up block
+[2026.04.20-14.54.07:642][867]LogBlueprintUserMessages: [Button_BP_C_UAID_BCC746A1DA1EF3D202_1552686023] not a block
+[2026.04.20-14.54.09:647][ 77]LogBlueprintUserMessages: [activatable_object_parent_BP_C_UAID_BCC746A1DA1EF3D202_1573305024] activated
+[2026.04.20-14.54.09:648][ 77]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Placed Block
+[2026.04.20-14.54.12:359][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.54.12:359][336]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.20-14.54.12:360][336]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.20-14.54.12:362][336]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-14.54.12:365][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.54.12:365][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.20-14.54.12:374][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-14.54.12:380][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-14.54.12:416][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-14.54.12:417][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.20-14.54.12:417][336]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.20-14.54.12:434][336]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.20-14.54.12:454][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.20-14.54.12:585][337]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.04.20-14.54.13:321][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-14.54.13:426][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.20-14.54.13:459][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.20-14.54.13:490][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.20-14.54.13:507][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.829 ms (total: 1.84 sec)
