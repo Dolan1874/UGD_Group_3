@@ -3772,3 +3772,166 @@ Are you sure?
 [2026.04.21-20.52.52:326][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.21-20.52.52:329][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2026.04.21-20.52.52:399][245]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.04.21-20.54.45:616][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8297.323242
+[2026.04.21-20.54.45:780][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-20.54.45:780][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8297.477539, Update Interval: 335.604126
+[2026.04.21-21.01.15:345][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8685.794922
+[2026.04.21-21.01.15:518][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-21.01.15:518][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8685.957031, Update Interval: 336.574615
+[2026.04.21-21.02.55:474][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.21-21.02.55:477][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.036
+[2026.04.21-21.02.55:477][489]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2026.04.21-21.02.55:539][489]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2026.04.21-21.02.55:539][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter]
+[2026.04.21-21.02.55:565][489]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Blueprints/BP_TopDownCharacter_Auto6
+[2026.04.21-21.02.55:566][489]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownCharacter_Auto683F0D2B74CA19560677135BED4F66BC0.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Blueprints/BP_TopDownCharacter_Auto6.uasset'
+[2026.04.21-21.02.55:567][489]LogFileHelpers: Auto-saving content packages took 0.089
+[2026.04.21-21.03.01:657][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.04.21-21.03.22:281][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.21-21.03.26:988][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.21-21.07.24:104][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9054.722656
+[2026.04.21-21.07.24:275][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-21.07.24:275][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9054.883789, Update Interval: 341.756653
+[2026.04.21-21.09.36:675][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.21-21.09.37:204][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-21.09.37:250][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2026.04.21-21.09.37:352][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2026.04.21-21.09.37:352][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter]
+[2026.04.21-21.09.37:379][362]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_TopDownCharacter
+[2026.04.21-21.09.37:379][362]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownCharacter5B236CDE40448FE64471708B304DE1B4.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset'
+[2026.04.21-21.09.37:391][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.631 ms (total: 6.19 sec)
+[2026.04.21-21.09.37:451][362]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-21.09.37:451][362]LogContentValidation: Enabled validators:
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-21.09.37:451][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-21.09.37:451][362]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownCharacter Validating asset
+[2026.04.21-21.10.11:452][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.21-21.10.12:083][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-21.10.12:150][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2026.04.21-21.10.12:280][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2026.04.21-21.10.12:280][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter]
+[2026.04.21-21.10.12:310][ 85]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_TopDownCharacter
+[2026.04.21-21.10.12:311][ 85]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownCharacter10226ECE46A95607A693FF87DD084D4E.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset'
+[2026.04.21-21.10.12:322][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.515 ms (total: 6.42 sec)
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: Enabled validators:
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-21.10.12:384][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-21.10.12:384][ 85]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownCharacter Validating asset
+[2026.04.21-21.14.05:477][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9456.628906
+[2026.04.21-21.14.05:624][216]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-21.14.05:624][216]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9456.767578, Update Interval: 351.045868
+[2026.04.21-21.14.18:171][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.21-21.14.18:177][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.042
+[2026.04.21-21.14.18:178][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2026.04.21-21.14.18:271][575]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2026.04.21-21.14.18:271][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter]
+[2026.04.21-21.14.18:302][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Blueprints/BP_TopDownCharacter_Auto7
+[2026.04.21-21.14.18:302][575]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownCharacter_Auto75BD2BFF0439B0B0D94A762BCD6EFC9C2.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Blueprints/BP_TopDownCharacter_Auto7.uasset'
+[2026.04.21-21.14.18:303][575]LogFileHelpers: Auto-saving content packages took 0.126
+[2026.04.21-21.15.43:676][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.21-21.15.44:291][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-21.15.44:343][163]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2026.04.21-21.15.44:432][163]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2026.04.21-21.15.44:432][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/BP_TopDownCharacter]
+[2026.04.21-21.15.44:461][163]LogSavePackage: Moving output files for package: /Game/UGD_Game/Blueprints/BP_TopDownCharacter
+[2026.04.21-21.15.44:462][163]LogSavePackage: Moving '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_TopDownCharacter569C3C2B48ABDE3CEF932B8A904B3F7B.tmp' to '../../../../../../Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset'
+[2026.04.21-21.15.44:472][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.365 ms (total: 6.61 sec)
+[2026.04.21-21.15.44:509][163]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-21.15.44:509][163]LogContentValidation: Enabled validators:
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-21.15.44:509][163]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-21.15.44:509][163]AssetCheck: /Game/UGD_Game/Blueprints/BP_TopDownCharacter Validating asset
+[2026.04.21-21.15.45:551][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-21.15.45:558][238]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-21.15.45:558][238]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.04.21-21.15.45:559][238]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 789 us (total: 20.588 ms)
+[2026.04.21-21.15.45:559][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-21.15.45:559][238]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.21-21.15.45:567][238]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.21-21.15.45:568][238]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.534 ms (total: 40.635 ms)
+[2026.04.21-21.15.45:568][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009491s)
+[2026.04.21-21.15.45:568][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.009534s)
+[2026.04.21-21.15.45:597][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.21-21.15.45:603][238]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.04.21-21.15.45:604][238]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-21.15.45:605][238]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-21.15.45:605][238]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-21.15.45:605][238]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-21.15.45:606][238]LogWorldPartition: Display: WorldPartition initialize took 1.904 ms (total: 184.284 ms)
+[2026.04.21-21.15.45:606][238]LogPlayLevel: PIE: World Init took: (0.004028s)
+[2026.04.21-21.15.45:607][238]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-21.15.45:607][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-21.15.45:607][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-21.15.45:607][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-21.15.45:607][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-21.15.45:607][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-21.15.45:610][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-21.15.45:648][238]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.04.21-21.15.45:649][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-21.15.45:649][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-21.15.45:649][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-21.15.45:650][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.04.21-21.15.45:650][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.04.21-21.15.45:653][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.04.21-21.15.45:653][238]LogInit: FAudioDevice initialized with ID 27.
+[2026.04.21-21.15.45:653][238]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lvl_TopDown'.
+[2026.04.21-21.15.45:653][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.04.21-21.15.45:653][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.04.21-21.15.45:657][238]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.04.21-21.15.45:661][238]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.04.21-22.15.45
+[2026.04.21-21.15.45:662][238]LogWorld: Bringing up level for play took: 0.004763
+[2026.04.21-21.15.45:665][238]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.04.21-21.15.45:673][238]PIE: Server logged in
+[2026.04.21-21.15.45:675][238]PIE: Play in editor total start time 0.118 seconds.
+[2026.04.21-21.15.45:740][239]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-21.16.05:550][314]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Spawn cast success
+[2026.04.21-21.16.05:550][314]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_0] Apply ID and Colour called
+[2026.04.21-21.16.05:550][314]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_0] Apply ID and Colour set BlockID
+[2026.04.21-21.16.06:912][463]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Spawn cast success
+[2026.04.21-21.16.06:913][463]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_1] Apply ID and Colour called
+[2026.04.21-21.16.06:913][463]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_1] Apply ID and Colour set BlockID
+[2026.04.21-21.16.08:538][641]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Spawn cast success
+[2026.04.21-21.16.08:538][641]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_2] Apply ID and Colour called
+[2026.04.21-21.16.08:538][641]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_2] Apply ID and Colour set BlockID
+[2026.04.21-21.16.09:810][781]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Spawn cast success
+[2026.04.21-21.16.09:810][781]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_3] Apply ID and Colour called
+[2026.04.21-21.16.09:810][781]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_3] Apply ID and Colour set BlockID
+[2026.04.21-21.16.10:982][909]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Spawn cast success
+[2026.04.21-21.16.10:982][909]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_4] Apply ID and Colour called
+[2026.04.21-21.16.10:982][909]LogBlueprintUserMessages: [BP_Interactable_BlockPickup_C_4] Apply ID and Colour set BlockID
+[2026.04.21-21.16.18:755][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-21.16.18:755][702]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.04.21-21.16.18:755][702]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.21-21.16.18:756][702]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-21.16.18:757][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-21.16.18:757][702]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.04.21-21.16.18:758][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-21.16.18:763][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-21.16.18:790][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-21.16.18:791][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.04.21-21.16.18:791][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.04.21-21.16.18:793][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.04.21-21.16.18:799][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-21.16.18:802][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.21-21.16.18:871][703]LogPlayLevel: Display: Destroying online subsystem :Context_46
