@@ -11,7 +11,23 @@
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_Interactable_Base.uasset",
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Inventory_Stuff/BP_InventoryComponent.uasset",
-				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Inventory_Stuff/WBP_InventoryBar.uasset"
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Inventory_Stuff/WBP_InventoryBar.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Inventory_Stuff/ItemType_E.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Inventory_Stuff/WBP_InventorySlot.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/migrated_block/BP_Interactable_Base.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Keycard_Stuff/BP_Interactable_KeycardPickup.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/F9/2PUQEZA76MQEBPERF8DZCX.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/X2/HAGZTTIRSXL9HD8ARW5VXC.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/0E/QGS22KXOJHB5WCRYQH0FJS.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/1R/MYS5L886IZKWHKKHEZ6INI.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/UY/IMUOH0VZ5IIELF4ZP88N5Y.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/QJ/6QC0GFJIZ54YXR4LUTACDI.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/KM/H2HRTOGR6C8PZC8DSOUKMF.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/__ExternalActors__/TopDown/Lvl_TopDown/F/41/4B18QXFOLZG0YPK9HV13BO.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/keypad.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/migrated_block/BP_Placed_Block.uasset",
+				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/migrated_block/BP_Interactable_test.uasset"
 			]
 		}
 	]
