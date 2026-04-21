@@ -1718,3 +1718,14 @@ FPackageName: Skipped package /Game/Characters/Mannequins/Anims/PickingUpObject_
 [2026.04.21-12.33.07:510][524]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
 [2026.04.21-12.33.07:516][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2026.04.21-12.33.07:542][525]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.04.21-12.35.58:328][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.21-12.35.58:337][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto2
+[2026.04.21-12.35.58:338][325]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/DXNNWSN0CWWI75VN9CKW0F_Auto2046DD11E46E54567A0197E82AC47DB72.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/3/81/DXNNWSN0CWWI75VN9CKW0F_Auto2.uasset'
+[2026.04.21-12.35.58:339][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.033
+[2026.04.21-12.35.58:339][325]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2026.04.21-12.35.58:339][325]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup] ([2] browsable assets)...
+[2026.04.21-12.35.58:414][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup.BP_Interactable_BlockPickup]
+[2026.04.21-12.35.58:414][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup]
+[2026.04.21-12.35.58:431][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup_Auto2
+[2026.04.21-12.35.58:431][325]LogSavePackage: Moving '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/BP_Interactable_BlockPickup_Auto610A425F47180BF26CE950A328B51EDE.tmp' to '../../../../../../Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Saved/Autosaves/Game/UGD_Game/Blueprints/migrated_block/BP_Interactable_BlockPickup_Auto2.uasset'
+[2026.04.21-12.35.58:432][325]LogFileHelpers: Auto-saving content packages took 0.093
