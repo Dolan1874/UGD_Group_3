@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/NPC_Stuff/UGD_Character.uasset",
+				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/brian/Desktop/Unreal/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Block_Stuff/BP_Interactable_BlockPickup.uasset",
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Block_Stuff/BP_Interactable_BlockPickup.uasset",
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/Block_Stuff/BlockID_E.uasset",
 				"C:/Users/Patri/OneDrive/Documents/GitHub/UGD_Group_3/Unreal_Group_3 5.6/Content/UGD_Game/Blueprints/BP_Interactable_BlockPickup.uasset",
